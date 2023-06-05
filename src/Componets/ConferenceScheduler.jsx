@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { DateTime, Duration, Interval } from 'luxon';
-import "../app.css"
+import "../App.css"
+
 
 const Conference = () => {
   const [sessions, setSessions] = useState([]);
