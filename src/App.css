@@ -178,11 +178,12 @@
     height: 100%;
     align-items: center;
     justify-content: center;
-    overflow-x: hiden;
+    overflow-x: hidden;
     
   }
   .conferences{
     width: 100%;
+    overflow-x: hidden;
   }
   .clock{
     width: 100%;
